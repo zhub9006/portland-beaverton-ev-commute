@@ -1,0 +1,81 @@
+{
+  "survey_metadata": {
+    "corridor": "Downtown Portland → Beaverton",
+    "distance_km": 12.8,
+    "destination_point": { "lat": 45.4872, "lon": -122.8038 },
+    "radius_m": 5000,
+    "collected_date": "2025-07-16",
+    "sources": ["OpenStreetMap (ODbL 1.0)", "Plug Share", "Super Charge Info"]
+  },
+  "stations": [
+    {
+      "id": "chargepoint-walmart",
+      "name": "ChargePoint (Walmart)",
+      "operator": "ChargePoint",
+      "lat": 45.490,
+      "lon": -122.800,
+      "address": "10450 SW Washington Sq, Beaverton, OR",
+      "distance_m": 1200,
+      "connectors": ["J-1772"],
+      "power_level": "Level 2",
+      "access": "public",
+      "network": "ChargePoint",
+      "hours": "24/7 (with store)"
+    },
+    {
+      "id": "multi-protocol-hall-blvd",
+      "name": "Multi-Protocol Station",
+      "operator": "Unknown",
+      "lat": 45.488,
+      "lon": -122.804,
+      "address": "SW Hall Blvd, Beaverton",
+      "distance_m": 300,
+      "connectors": ["J-1772", "CCS/SAE", "CHAdeMO"],
+      "power_level": "Unknown",
+      "access": "public"
+    },
+    {
+      "id": "blink-downtown-beaverton",
+      "name": "Blink",
+      "operator": "Blink",
+      "lat": 45.491,
+      "lon": -122.803,
+      "address": "Downtown Beaverton",
+      "distance_m": 1000,
+      "connectors": ["J-1772"],
+      "power_level": "Level 2",
+      "access": "public",
+      "network": "Blink"
+    },
+    {
+      "id": "electrify-america-washington-county",
+      "name": "Electrify America",
+      "operator": "Electrify America",
+      "lat": 45.495,
+      "lon": -122.798,
+      "address": "Tigard area, Washington County",
+      "distance_m": 2000,
+      "connectors": ["CCS", "CHAdeMO"],
+      "power_kw": "50–350",
+      "power_level": "DC Fast",
+      "access": "public",
+      "network": "Electrify America",
+      "hours": "24/7"
+    },
+    {
+      "id": "evgo-progress-ridge",
+      "name": "EVgo",
+      "operator": "EVgo",
+      "lat": 45.50,
+      "lon": -122.81,
+      "address": "Progress Ridge area, Beaverton",
+      "distance_m": 1500,
+      "connectors": ["CCS", "CHAdeMO"],
+      "power_kw": "50–200",
+      "power_level": "DC Fast",
+      "access": "public",
+      "network": "EVgo",
+      "hours": "24/7"
+    }
+  ]
+}

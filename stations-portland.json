@@ -1,0 +1,95 @@
+{
+  "survey_metadata": {
+    "corridor": "Downtown Portland → Beaverton",
+    "distance_km": 12.8,
+    "center_point": { "lat": 45.5159, "lon": -122.6822 },
+    "radius_m": 5000,
+    "collected_date": "2025-07-16",
+    "sources": ["OpenStreetMap (ODbL 1.0)", "Plug Share", "Super Charge Info"]
+  },
+  "stations": [
+    {
+      "id": "tesla-supercharger-broadway",
+      "name": "Tesla Supercharger",
+      "operator": "Tesla",
+      "lat": 45.51844,
+      "lon": -122.68045,
+      "address": "805 SW Broadway, Portland, OR 97205",
+      "distance_m": 317,
+      "connectors": ["NACS"],
+      "connector_count": 4,
+      "power_kw": 250,
+      "power_level": "DC Fast",
+      "access": "customers_only",
+      "hours": "24/7",
+      "network": "Tesla Supercharger"
+    },
+    {
+      "id": "multi-protocol-sw-canvas",
+      "name": "Multi-Protocol Station",
+      "operator": "Unknown",
+      "lat": 45.5161175,
+      "lon": -122.6739227,
+      "address": "SW Canvas / Davis St area, Portland",
+      "distance_m": 644,
+      "connectors": ["J-1772", "CCS/SAE", "CHAdeMO"],
+      "power_level": "DC Fast+",
+      "access": "public",
+      "notes": "Best multi-EV compatibility near downtown"
+    },
+    {
+      "id": "blink-sw-broadway",
+      "name": "Blink",
+      "operator": "Blink",
+      "lat": 45.5187165,
+      "lon": -122.6761838,
+      "address": "SW Broadway area, Portland",
+      "distance_m": 565,
+      "connectors": ["J-1772"],
+      "connector_count": 4,
+      "power_kw": 7.2,
+      "power_level": "Level 2",
+      "access": "public",
+      "network": "Blink"
+    },
+    {
+      "id": "blink-sw-oak",
+      "name": "Blink",
+      "operator": "Blink",
+      "lat": 45.5154353,
+      "lon": -122.674201,
+      "address": "SW Oak St area, Portland",
+      "distance_m": 624,
+      "connectors": ["J-1772"],
+      "power_level": "Level 2",
+      "access": "public",
+      "network": "Blink"
+    },
+    {
+      "id": "blink-sw-taylor",
+      "name": "Blink",
+      "operator": "Blink",
+      "lat": 45.5174493,
+      "lon": -122.673031,
+      "address": "SW Taylor St area, Portland",
+      "distance_m": 735,
+      "connectors": ["J-1772"],
+      "power_level": "Level 2",
+      "access": "public",
+      "network": "Blink"
+    },
+    {
+      "id": "chargepoint-downtown",
+      "name": "ChargePoint",
+      "operator": "ChargePoint",
+      "lat": 45.5113085,
+      "lon": -122.6763146,
+      "address": "SW 4th / Main area, Portland",
+      "distance_m": 682,
+      "connectors": ["J-1772"],
+      "power_level": "Level 2",
+      "access": "public",
+      "network": "ChargePoint"
+    }
+  ]
+}
