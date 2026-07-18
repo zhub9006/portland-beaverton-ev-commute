@@ -1,0 +1,7 @@
+id,name,operator,latitude,longitude,address,distance_m,connectors,connector_count,power_kw,power_level,access,hours,network
+tesla-supercharger-broadway,Tesla Supercharger,Tesla,45.51844,-122.68045,"805 SW Broadway, Portland, OR 97205",317,NACS,4,250,DC Fast,customers,24/7,Tesla Supercharger
+multi-protocol-sw-canvas,Multi-Protocol Station,Unknown,45.5161175,-122.6739227,"SW Canvas / Davis St area, Portland",644,"J-1772, CCS/SAE, CHAdeMO",3,DC Fast+,DC Fast+,public,,Unknown
+blink-sw-broadway,Blink,Blink,45.5187165,-122.6761838,"SW Broadway area, Portland",565,J-1772,4,7.2,Level 2,public,,Blink
+blink-sw-oak,Blink,Blink,45.5154353,-122.674201,"SW Oak St area, Portland",624,J-1772,1,,Level 2,public,,Blink
+blink-sw-taylor,Blink,Blink,45.5174493,-122.673031,"SW Taylor St area, Portland",735,J-1772,1,,Level 2,public,,Blink
+chargepoint-downtown,ChargePoint,ChargePoint,45.5113085,-122.6763146,"SW 4th / Main area, Portland",682,J-1772,1,,Level 2,public,,ChargePoint
