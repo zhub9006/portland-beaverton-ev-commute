@@ -1,0 +1,8 @@
+id,name,operator,latitude,longitude,address,distance_m,connectors,connector_count,power_kw,power_level,access,hours,network
+chargepoint-walmart,ChargePoint (Walmart),ChargePoint,45.49,-122.8,"10450 SW Washington Sq, Beaverton, OR",1200,J-1772,1,,Level 2,public,24/7 (with store),ChargePoint
+multi-protocol-hall-blvd,Multi-Protocol Station,Unknown,45.488,-122.804,"SW Hall Blvd, Beaverton",300,"J-1772, CCS/SAE, CHAdeMO",3,,Unknown,public,,Unknown
+blink-downtown-beaverton,Blink,Blink,45.491,-122.803,"Downtown Beaverton",1000,J-1772,1,,Level 2,public,,Blink
+electrify-america-washington-county,Electrify America,Electrify America,45.487,-122.789,"10775 SW Beaverton Hillsdale Highway, Beaverton, OR 97005",1183,"CCS, CHAdeMO",4,"50-350",DC Fast,public,24/7,Electrify America
+evgo-progress-ridge,EVgo,EVgo,45.5,-122.81,"Progress Ridge area, Beaverton",1500,"CCS, CHAdeMO",4,"50-200",DC Fast,public,24/7,EVgo
+pge-electric-avenue,PGE Electric Avenue,Portland General Electric,45.489,-122.798,"Beaverton",489,J-1772,1,,Level 2,public,,PGE
+tesla-supercharger-beaverton,Tesla Supercharger,Tesla,45.487,-122.794,"11425 SW Beaverton Hillsdale Highway, Beaverton, OR 97005",755,NACS,16,500,DC Fast,public,24/7,Tesla Supercharger
