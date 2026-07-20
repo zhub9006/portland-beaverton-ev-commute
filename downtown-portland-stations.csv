@@ -1,0 +1,11 @@
+station_id,name,operator,address,city,postcode,latitude,longitude,connector_types,power_kw,charging_level,access,fee_status,distance_from_origin_m,openstreetmap_id
+7278420508,Unnamed Charging Station,Unknown,,Portland,97205,45.5174746,-122.680112,J-1772,,DC Fast,Public,yes,242,7278420508
+4753977822,Unnamed Charging Station,Unknown,,Portland,97205,45.5153092,-122.6782222,,N/A,Public,Unknown,315,4753977822
+11246283833,Tesla Supercharger,Tesla,805 SW Broadway,Portland,97205,45.51844,-122.68045,NACS,250,DC Fast,Customers,yes,317,11246283833
+7278420507,Blink,Blink,,Portland,97205,45.5187165,-122.6761838,J-1772,7.2,Level 2,Public,Unknown,565,7278420507
+10144741321,Unnamed Charging Station,Unknown,,Portland,97205,45.5121791,-122.6769047,,N/A,Customers,Unknown,580,10144741321
+7278416012,Blink,Blink,,Portland,97205,45.5154353,-122.674201,J-1772,N/A,Level 2,Public,yes,624,7278416012
+7278416011,Unnamed Charging Station,Unknown,,Portland,97205,45.5161175,-122.6739227,J-1772+CCS+CHAdeMO,N/A,DC Fast+,Public,yes,644,7278416011
+10272244809,ChargePoint,ChargePoint,,Portland,97205,45.5113085,-122.6763146,J-1772,N/A,Level 2,Public,Unknown,682,10272244809
+10272259309,Unnamed Charging Station,Unknown,,Portland,97205,45.511037,-122.6765733,,N/A,Public,Unknown,692,10272259309
+7278420506,Blink,Blink,,Portland,97205,45.5174493,-122.673031,J-1772,N/A,Level 2,Public,Unknown,735,7278420506

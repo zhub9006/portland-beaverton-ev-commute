@@ -1,0 +1,8 @@
+station_id,name,operator,address,city,postcode,latitude,longitude,connector_types,power_kw,charging_level,access,fee_status,distance_from_origin_m
+10144741321,Tesla Supercharger,Tesla,,Beaverton,97005,45.4871723,-122.80378,NACS,500,DC Fast,Public,yes,755
+10272244809,Electrify America,Electrify America,,Beaverton,97005,45.4871723,-122.80378,CCS+CHAdeMO,350,DC Fast,Public,yes,1183
+10144741321,ChargePoint (Walmart),ChargePoint,,Beaverton,97005,45.4871723,-122.80378,J-1772,N/A,Level 2,Public,Unknown,1200
+10144741321,PGE Electric Avenue,Portland General Electric,,Beaverton,97005,45.4871723,-122.80378,J-1772,N/A,Level 2,Public,Unknown,489
+10272259309,Blink,Blink,,Beaverton,97005,,J-1772,N/A,Level 2,Public,Unknown,1000
+10272244809,Multi-Protocol Station,Unknown,,Beaverton,97005,45.4871723,-122.80378,J-1772+CCS+CHAdeMO,N/A,Unknown,Public,Unknown,300
+10144741321,EVgo (Progress Ridge),EVgo,,Beaverton,97005,45.4871723,-122.80378,CCS+CHAdeMO,200,DC Fast,Public,yes,1500
